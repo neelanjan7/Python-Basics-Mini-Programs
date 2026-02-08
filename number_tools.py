@@ -1,5 +1,5 @@
 num_1 = 3
-num_2 = 3.14
+num_2 = 3.145
 
 print(num_1)    
 print(num_2)   
